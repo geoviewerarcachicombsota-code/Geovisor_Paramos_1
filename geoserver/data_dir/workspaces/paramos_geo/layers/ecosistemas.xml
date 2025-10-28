@@ -1,0 +1,14 @@
+<layer>
+  <name>ecosistemas</name>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <name>ecosistemas</name>
+    <workspace>paramos_geo</workspace>
+  </defaultStyle>
+  <resource class="featureType">
+    <name>ecosistemas</name>
+    <store class="dataStore">
+      <name>gdb_paramos</name>
+    </store>
+  </resource>
+</layer>

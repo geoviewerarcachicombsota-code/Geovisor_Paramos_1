@@ -1,0 +1,10 @@
+<dataStore>
+  <id>gdb_paramos</id>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>paramos_geo</workspace>
+  <connectionParameters>
+    <entry key="database">data/ecosistemas.gpkg</entry>
+    <entry key="dbtype">geopkg</entry>
+  </connectionParameters>
+</dataStore>
